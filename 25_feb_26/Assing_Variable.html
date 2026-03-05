@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h2>Product Inventory</h2>
+<p id="output"></p>
+
+<script>
+
+
+// Global Variables
+
+const companyName = "TechStore Pvt Ltd";
+let warehouseLocation = "Delhi";
+var totalProducts = 0;
+
+
+// Array of Products
+
+let products = [
+    { id: 1, name: "Laptop", price: 50000, quantity: 5 },
+    { id: 2, name: "Mobile", price: 20000, quantity: 10 },
+    { id: 3, name: "Headphones", price: 2000, quantity: 15 }
+];
+
+totalProducts = products.length;
+
+
+// Functions
+
+
+// Display Products
+function displayProducts() {
+
+    console.log("===== Product List =====");
+
+    for (let i = 0; i < products.length; i++) {
+        console.log(
+            products[i].id + " | " +
+            products[i].name + " | Price: " +
+            products[i].price + " | Qty: " +
+            products[i].quantity
+        );
+    }
+}
+
+
+// Calculate Inventory Value
+function calculateInventoryValue() {
+
+    let totalValue = 0;
+
+    for (let i = 0; i < products.length; i++) {
+        totalValue += products[i].price * products[i].quantity;
+    }
+
+    return totalValue;
+}
+
+
+// Apply Discount (Default Parameter)
+function applyDiscount(discountPercent = 10) {
+
+    console.log("\nApplying Discount:", discountPercent + "%");
+
+    for (let i = 0; i < products.length; i++) {
+        products[i].price =
+            products[i].price -
+            (products[i].price * discountPercent / 100);
+    }
+}
+
+
+// Block Scope Demonstration
+
+console.log("\nBefore Block:");
+console.log("Warehouse:", warehouseLocation);
+console.log("Total Products:", totalProducts);
+
+{
+    let warehouseLocation = "Mumbai"; // block scoped
+    var totalProducts = 100; // affects global variable
+
+    console.log("\nInside Block:");
+    console.log("Warehouse:", warehouseLocation);
+    console.log("Total Products:", totalProducts);
+}
+
+console.log("\nOutside Block:");
+console.log("Warehouse:", warehouseLocation);
+console.log("Total Products:", totalProducts);
+
+
+// Function Calls
+
+
+displayProducts();
+
+let inventoryValue = calculateInventoryValue();
+console.log("\nTotal Inventory Value:", inventoryValue);
+
+applyDiscount(); // default 10%
+
+console.log("\nAfter Discount:");
+displayProducts();
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+

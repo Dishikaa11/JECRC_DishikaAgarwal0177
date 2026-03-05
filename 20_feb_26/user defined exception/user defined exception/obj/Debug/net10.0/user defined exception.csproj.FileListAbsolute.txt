@@ -1,0 +1,14 @@
+C:\Users\dishi\OneDrive\Desktop\c#\user defined exception\user defined exception\obj\Debug\net10.0\user defined exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dishi\OneDrive\Desktop\c#\user defined exception\user defined exception\obj\Debug\net10.0\user defined exception.AssemblyInfoInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\user defined exception\user defined exception\obj\Debug\net10.0\user defined exception.AssemblyInfo.cs
+C:\Users\dishi\OneDrive\Desktop\c#\user defined exception\user defined exception\obj\Debug\net10.0\user defined exception.csproj.CoreCompileInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\user defined exception\user defined exception\bin\Debug\net10.0\user defined exception.exe
+C:\Users\dishi\OneDrive\Desktop\c#\user defined exception\user defined exception\bin\Debug\net10.0\user defined exception.deps.json
+C:\Users\dishi\OneDrive\Desktop\c#\user defined exception\user defined exception\bin\Debug\net10.0\user defined exception.runtimeconfig.json
+C:\Users\dishi\OneDrive\Desktop\c#\user defined exception\user defined exception\bin\Debug\net10.0\user defined exception.dll
+C:\Users\dishi\OneDrive\Desktop\c#\user defined exception\user defined exception\bin\Debug\net10.0\user defined exception.pdb
+C:\Users\dishi\OneDrive\Desktop\c#\user defined exception\user defined exception\obj\Debug\net10.0\user defined exception.dll
+C:\Users\dishi\OneDrive\Desktop\c#\user defined exception\user defined exception\obj\Debug\net10.0\refint\user defined exception.dll
+C:\Users\dishi\OneDrive\Desktop\c#\user defined exception\user defined exception\obj\Debug\net10.0\user defined exception.pdb
+C:\Users\dishi\OneDrive\Desktop\c#\user defined exception\user defined exception\obj\Debug\net10.0\user defined exception.genruntimeconfig.cache
+C:\Users\dishi\OneDrive\Desktop\c#\user defined exception\user defined exception\obj\Debug\net10.0\ref\user defined exception.dll

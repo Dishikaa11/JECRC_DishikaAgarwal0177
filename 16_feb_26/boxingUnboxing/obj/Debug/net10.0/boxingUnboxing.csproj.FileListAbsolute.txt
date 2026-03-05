@@ -1,0 +1,14 @@
+C:\Users\dishi\OneDrive\Desktop\c#\boxingUnboxing\obj\Debug\net10.0\boxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dishi\OneDrive\Desktop\c#\boxingUnboxing\obj\Debug\net10.0\boxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\boxingUnboxing\obj\Debug\net10.0\boxingUnboxing.AssemblyInfo.cs
+C:\Users\dishi\OneDrive\Desktop\c#\boxingUnboxing\obj\Debug\net10.0\boxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\boxingUnboxing\bin\Debug\net10.0\boxingUnboxing.exe
+C:\Users\dishi\OneDrive\Desktop\c#\boxingUnboxing\bin\Debug\net10.0\boxingUnboxing.deps.json
+C:\Users\dishi\OneDrive\Desktop\c#\boxingUnboxing\bin\Debug\net10.0\boxingUnboxing.runtimeconfig.json
+C:\Users\dishi\OneDrive\Desktop\c#\boxingUnboxing\bin\Debug\net10.0\boxingUnboxing.dll
+C:\Users\dishi\OneDrive\Desktop\c#\boxingUnboxing\bin\Debug\net10.0\boxingUnboxing.pdb
+C:\Users\dishi\OneDrive\Desktop\c#\boxingUnboxing\obj\Debug\net10.0\boxingUnboxing.dll
+C:\Users\dishi\OneDrive\Desktop\c#\boxingUnboxing\obj\Debug\net10.0\refint\boxingUnboxing.dll
+C:\Users\dishi\OneDrive\Desktop\c#\boxingUnboxing\obj\Debug\net10.0\boxingUnboxing.pdb
+C:\Users\dishi\OneDrive\Desktop\c#\boxingUnboxing\obj\Debug\net10.0\boxingUnboxing.genruntimeconfig.cache
+C:\Users\dishi\OneDrive\Desktop\c#\boxingUnboxing\obj\Debug\net10.0\ref\boxingUnboxing.dll

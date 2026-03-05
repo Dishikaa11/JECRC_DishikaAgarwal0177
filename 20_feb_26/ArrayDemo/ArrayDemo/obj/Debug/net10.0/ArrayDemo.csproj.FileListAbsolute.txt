@@ -1,0 +1,14 @@
+C:\Users\dishi\OneDrive\Desktop\c#\ArrayDemo\ArrayDemo\obj\Debug\net10.0\ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dishi\OneDrive\Desktop\c#\ArrayDemo\ArrayDemo\obj\Debug\net10.0\ArrayDemo.AssemblyInfoInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\ArrayDemo\ArrayDemo\obj\Debug\net10.0\ArrayDemo.AssemblyInfo.cs
+C:\Users\dishi\OneDrive\Desktop\c#\ArrayDemo\ArrayDemo\obj\Debug\net10.0\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\ArrayDemo\ArrayDemo\bin\Debug\net10.0\ArrayDemo.exe
+C:\Users\dishi\OneDrive\Desktop\c#\ArrayDemo\ArrayDemo\bin\Debug\net10.0\ArrayDemo.deps.json
+C:\Users\dishi\OneDrive\Desktop\c#\ArrayDemo\ArrayDemo\bin\Debug\net10.0\ArrayDemo.runtimeconfig.json
+C:\Users\dishi\OneDrive\Desktop\c#\ArrayDemo\ArrayDemo\bin\Debug\net10.0\ArrayDemo.dll
+C:\Users\dishi\OneDrive\Desktop\c#\ArrayDemo\ArrayDemo\bin\Debug\net10.0\ArrayDemo.pdb
+C:\Users\dishi\OneDrive\Desktop\c#\ArrayDemo\ArrayDemo\obj\Debug\net10.0\ArrayDemo.dll
+C:\Users\dishi\OneDrive\Desktop\c#\ArrayDemo\ArrayDemo\obj\Debug\net10.0\refint\ArrayDemo.dll
+C:\Users\dishi\OneDrive\Desktop\c#\ArrayDemo\ArrayDemo\obj\Debug\net10.0\ArrayDemo.pdb
+C:\Users\dishi\OneDrive\Desktop\c#\ArrayDemo\ArrayDemo\obj\Debug\net10.0\ArrayDemo.genruntimeconfig.cache
+C:\Users\dishi\OneDrive\Desktop\c#\ArrayDemo\ArrayDemo\obj\Debug\net10.0\ref\ArrayDemo.dll

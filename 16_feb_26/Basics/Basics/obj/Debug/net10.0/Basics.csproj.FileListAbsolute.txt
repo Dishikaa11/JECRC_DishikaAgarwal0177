@@ -1,0 +1,14 @@
+C:\Users\dishi\OneDrive\Desktop\JECRC_DishikaAgarwal0177\16_feb_26\Basics\Basics\bin\Debug\net10.0\Basics.exe
+C:\Users\dishi\OneDrive\Desktop\JECRC_DishikaAgarwal0177\16_feb_26\Basics\Basics\bin\Debug\net10.0\Basics.deps.json
+C:\Users\dishi\OneDrive\Desktop\JECRC_DishikaAgarwal0177\16_feb_26\Basics\Basics\bin\Debug\net10.0\Basics.runtimeconfig.json
+C:\Users\dishi\OneDrive\Desktop\JECRC_DishikaAgarwal0177\16_feb_26\Basics\Basics\bin\Debug\net10.0\Basics.dll
+C:\Users\dishi\OneDrive\Desktop\JECRC_DishikaAgarwal0177\16_feb_26\Basics\Basics\bin\Debug\net10.0\Basics.pdb
+C:\Users\dishi\OneDrive\Desktop\JECRC_DishikaAgarwal0177\16_feb_26\Basics\Basics\obj\Debug\net10.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dishi\OneDrive\Desktop\JECRC_DishikaAgarwal0177\16_feb_26\Basics\Basics\obj\Debug\net10.0\Basics.AssemblyInfoInputs.cache
+C:\Users\dishi\OneDrive\Desktop\JECRC_DishikaAgarwal0177\16_feb_26\Basics\Basics\obj\Debug\net10.0\Basics.AssemblyInfo.cs
+C:\Users\dishi\OneDrive\Desktop\JECRC_DishikaAgarwal0177\16_feb_26\Basics\Basics\obj\Debug\net10.0\Basics.csproj.CoreCompileInputs.cache
+C:\Users\dishi\OneDrive\Desktop\JECRC_DishikaAgarwal0177\16_feb_26\Basics\Basics\obj\Debug\net10.0\Basics.dll
+C:\Users\dishi\OneDrive\Desktop\JECRC_DishikaAgarwal0177\16_feb_26\Basics\Basics\obj\Debug\net10.0\refint\Basics.dll
+C:\Users\dishi\OneDrive\Desktop\JECRC_DishikaAgarwal0177\16_feb_26\Basics\Basics\obj\Debug\net10.0\Basics.pdb
+C:\Users\dishi\OneDrive\Desktop\JECRC_DishikaAgarwal0177\16_feb_26\Basics\Basics\obj\Debug\net10.0\Basics.genruntimeconfig.cache
+C:\Users\dishi\OneDrive\Desktop\JECRC_DishikaAgarwal0177\16_feb_26\Basics\Basics\obj\Debug\net10.0\ref\Basics.dll

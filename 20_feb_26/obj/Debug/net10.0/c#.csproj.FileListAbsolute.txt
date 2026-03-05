@@ -1,0 +1,4 @@
+C:\Users\dishi\OneDrive\Desktop\c#\obj\Debug\net10.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dishi\OneDrive\Desktop\c#\obj\Debug\net10.0\c#.AssemblyInfoInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\obj\Debug\net10.0\c#.AssemblyInfo.cs
+C:\Users\dishi\OneDrive\Desktop\c#\obj\Debug\net10.0\c#.csproj.CoreCompileInputs.cache

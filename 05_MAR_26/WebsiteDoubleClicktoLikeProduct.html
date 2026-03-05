@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Double Click to Like Product</title>
+
+<style>
+#product{
+    cursor:pointer;
+    border:2px solid #ccc;
+    border-radius:8px;
+}
+</style>
+
+</head>
+
+<body>
+
+<h2>Product</h2>
+
+<img id="product" src="https://via.placeholder.com/200" alt="Product Image">
+
+<p>Likes: <span id="count">0</span></p>
+
+<script>
+
+let likes = 0;
+
+document.getElementById("product").addEventListener("dblclick", function(){
+
+    // Increase like counter
+    likes++;
+
+    // Update like count in UI
+    document.getElementById("count").innerText = likes;
+
+    // Console message
+    console.log("Product liked", likes);
+
+});
+
+</script>
+
+</body>
+</html>

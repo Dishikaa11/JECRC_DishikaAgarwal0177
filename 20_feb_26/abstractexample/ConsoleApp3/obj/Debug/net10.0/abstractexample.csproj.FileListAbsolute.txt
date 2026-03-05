@@ -1,0 +1,14 @@
+C:\Users\dishi\OneDrive\Desktop\c#\ConsoleApp3\ConsoleApp3\bin\Debug\net10.0\abstractexample.exe
+C:\Users\dishi\OneDrive\Desktop\c#\ConsoleApp3\ConsoleApp3\bin\Debug\net10.0\abstractexample.deps.json
+C:\Users\dishi\OneDrive\Desktop\c#\ConsoleApp3\ConsoleApp3\bin\Debug\net10.0\abstractexample.runtimeconfig.json
+C:\Users\dishi\OneDrive\Desktop\c#\ConsoleApp3\ConsoleApp3\bin\Debug\net10.0\abstractexample.dll
+C:\Users\dishi\OneDrive\Desktop\c#\ConsoleApp3\ConsoleApp3\bin\Debug\net10.0\abstractexample.pdb
+C:\Users\dishi\OneDrive\Desktop\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net10.0\abstractexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dishi\OneDrive\Desktop\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net10.0\abstractexample.AssemblyInfoInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net10.0\abstractexample.AssemblyInfo.cs
+C:\Users\dishi\OneDrive\Desktop\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net10.0\abstractexample.csproj.CoreCompileInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net10.0\abstractexample.dll
+C:\Users\dishi\OneDrive\Desktop\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net10.0\refint\abstractexample.dll
+C:\Users\dishi\OneDrive\Desktop\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net10.0\abstractexample.pdb
+C:\Users\dishi\OneDrive\Desktop\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net10.0\abstractexample.genruntimeconfig.cache
+C:\Users\dishi\OneDrive\Desktop\c#\ConsoleApp3\ConsoleApp3\obj\Debug\net10.0\ref\abstractexample.dll

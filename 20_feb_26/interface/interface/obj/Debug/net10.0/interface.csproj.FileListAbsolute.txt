@@ -1,0 +1,14 @@
+C:\Users\dishi\OneDrive\Desktop\proj\interface\interface\bin\Debug\net10.0\interface.exe
+C:\Users\dishi\OneDrive\Desktop\proj\interface\interface\bin\Debug\net10.0\interface.deps.json
+C:\Users\dishi\OneDrive\Desktop\proj\interface\interface\bin\Debug\net10.0\interface.runtimeconfig.json
+C:\Users\dishi\OneDrive\Desktop\proj\interface\interface\bin\Debug\net10.0\interface.dll
+C:\Users\dishi\OneDrive\Desktop\proj\interface\interface\bin\Debug\net10.0\interface.pdb
+C:\Users\dishi\OneDrive\Desktop\proj\interface\interface\obj\Debug\net10.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dishi\OneDrive\Desktop\proj\interface\interface\obj\Debug\net10.0\interface.AssemblyInfoInputs.cache
+C:\Users\dishi\OneDrive\Desktop\proj\interface\interface\obj\Debug\net10.0\interface.AssemblyInfo.cs
+C:\Users\dishi\OneDrive\Desktop\proj\interface\interface\obj\Debug\net10.0\interface.csproj.CoreCompileInputs.cache
+C:\Users\dishi\OneDrive\Desktop\proj\interface\interface\obj\Debug\net10.0\interface.dll
+C:\Users\dishi\OneDrive\Desktop\proj\interface\interface\obj\Debug\net10.0\refint\interface.dll
+C:\Users\dishi\OneDrive\Desktop\proj\interface\interface\obj\Debug\net10.0\interface.pdb
+C:\Users\dishi\OneDrive\Desktop\proj\interface\interface\obj\Debug\net10.0\interface.genruntimeconfig.cache
+C:\Users\dishi\OneDrive\Desktop\proj\interface\interface\obj\Debug\net10.0\ref\interface.dll

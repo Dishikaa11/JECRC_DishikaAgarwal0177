@@ -1,0 +1,4 @@
+C:\Users\dishi\OneDrive\Desktop\c#\abstract class example\abstract class example\obj\Debug\net10.0\abstractclassexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dishi\OneDrive\Desktop\c#\abstract class example\abstract class example\obj\Debug\net10.0\abstractclassexample.AssemblyInfoInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\abstract class example\abstract class example\obj\Debug\net10.0\abstractclassexample.AssemblyInfo.cs
+C:\Users\dishi\OneDrive\Desktop\c#\abstract class example\abstract class example\obj\Debug\net10.0\abstractclassexample.csproj.CoreCompileInputs.cache

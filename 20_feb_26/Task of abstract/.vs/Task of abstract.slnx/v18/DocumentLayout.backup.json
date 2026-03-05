@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dishi\\OneDrive\\Desktop\\c#\\Task of abstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42DEC344-6DCF-4D5E-83BB-9E1B4FF8A651}|Task of abstract\\Task of abstract.csproj|c:\\users\\dishi\\onedrive\\desktop\\c#\\task of abstract\\task of abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DEC344-6DCF-4D5E-83BB-9E1B4FF8A651}|Task of abstract\\Task of abstract.csproj|solutionrelative:task of abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dishi\\OneDrive\\Desktop\\c#\\Task of abstract\\Task of abstract\\Program.cs",
+              "RelativeDocumentMoniker": "Task of abstract\\Program.cs",
+              "ToolTip": "C:\\Users\\dishi\\OneDrive\\Desktop\\c#\\Task of abstract\\Task of abstract\\Program.cs*",
+              "RelativeToolTip": "Task of abstract\\Program.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwDMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:48:56.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

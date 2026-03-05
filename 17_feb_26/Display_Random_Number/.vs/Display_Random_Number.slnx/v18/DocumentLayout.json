@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dishi\\OneDrive\\Desktop\\JECRC_DishikaAgarwal0177\\16_feb_26\\Display_Random_Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F95344-2BD2-43EF-B8FF-58293FEB3D93}|Display_Random_Number\\Display_Random_Number.csproj|c:\\users\\dishi\\onedrive\\desktop\\jecrc_dishikaagarwal0177\\16_feb_26\\display_random_number\\display_random_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F95344-2BD2-43EF-B8FF-58293FEB3D93}|Display_Random_Number\\Display_Random_Number.csproj|solutionrelative:display_random_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dishi\\OneDrive\\Desktop\\JECRC_DishikaAgarwal0177\\16_feb_26\\Display_Random_Number\\Display_Random_Number\\Program.cs",
+              "RelativeDocumentMoniker": "Display_Random_Number\\Program.cs",
+              "ToolTip": "C:\\Users\\dishi\\OneDrive\\Desktop\\JECRC_DishikaAgarwal0177\\16_feb_26\\Display_Random_Number\\Display_Random_Number\\Program.cs",
+              "RelativeToolTip": "Display_Random_Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T06:02:49.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

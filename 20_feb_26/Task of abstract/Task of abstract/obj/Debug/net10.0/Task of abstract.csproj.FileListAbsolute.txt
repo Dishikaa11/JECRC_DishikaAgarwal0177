@@ -1,0 +1,14 @@
+C:\Users\dishi\OneDrive\Desktop\c#\Task of abstract\Task of abstract\bin\Debug\net10.0\Task of abstract.exe
+C:\Users\dishi\OneDrive\Desktop\c#\Task of abstract\Task of abstract\bin\Debug\net10.0\Task of abstract.deps.json
+C:\Users\dishi\OneDrive\Desktop\c#\Task of abstract\Task of abstract\bin\Debug\net10.0\Task of abstract.runtimeconfig.json
+C:\Users\dishi\OneDrive\Desktop\c#\Task of abstract\Task of abstract\bin\Debug\net10.0\Task of abstract.dll
+C:\Users\dishi\OneDrive\Desktop\c#\Task of abstract\Task of abstract\bin\Debug\net10.0\Task of abstract.pdb
+C:\Users\dishi\OneDrive\Desktop\c#\Task of abstract\Task of abstract\obj\Debug\net10.0\Task of abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dishi\OneDrive\Desktop\c#\Task of abstract\Task of abstract\obj\Debug\net10.0\Task of abstract.AssemblyInfoInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\Task of abstract\Task of abstract\obj\Debug\net10.0\Task of abstract.AssemblyInfo.cs
+C:\Users\dishi\OneDrive\Desktop\c#\Task of abstract\Task of abstract\obj\Debug\net10.0\Task of abstract.csproj.CoreCompileInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\Task of abstract\Task of abstract\obj\Debug\net10.0\Task of abstract.dll
+C:\Users\dishi\OneDrive\Desktop\c#\Task of abstract\Task of abstract\obj\Debug\net10.0\refint\Task of abstract.dll
+C:\Users\dishi\OneDrive\Desktop\c#\Task of abstract\Task of abstract\obj\Debug\net10.0\Task of abstract.pdb
+C:\Users\dishi\OneDrive\Desktop\c#\Task of abstract\Task of abstract\obj\Debug\net10.0\Task of abstract.genruntimeconfig.cache
+C:\Users\dishi\OneDrive\Desktop\c#\Task of abstract\Task of abstract\obj\Debug\net10.0\ref\Task of abstract.dll

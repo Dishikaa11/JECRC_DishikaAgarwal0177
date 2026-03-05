@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Variable_var</title>
+</head>
+<body>
+    <h1>JavaScript Variable Redeclaration with <code>var</code></h1> 
+   <p>Open the browser console (F12) to see the output from <code>console.log()</code>.</p> 
+   <p>Result displayed on page: <span id="output"></span></p> 
+    <script>
+        var name = "Alice";
+        var name = "Bob";
+        console.log(name);
+
+        document.getElementById("output").textcontent = name;
+        console.log("\n===== FUNCTION SCOPE ======");
+        function testVar()
+        {
+            var name = "Charlie"; // This is a different variable, scoped to the function 
+            console.log(name); // Charlie 
+        }
+        testVar();
+        console.log(name);
+
+        console.log("\n ===== Primitive Data Types====");
+        let name2 = "David";
+        let age = 30;
+        let isStudent = false;
+        let salary;
+        let bonus = null;
+        let bignumber = 345678909876543n;
+        console.log(typeof name2);  //string
+        console.log(typeof age); //number
+        console.log(typeof isStudent); //boolean
+        console.log(typeof salary); //undefined
+        console.log(typeof bonus); //object(null is of type "object" is)
+        console.log(typeof bignumber); //bigint
+
+        console.log("\n ===== Non-Primitive Data Types====");
+         let person = {name : "eve" , age : 25};  //object
+        let numbers = [1,2,3,4,5];  //array
+        let today = new Date();  //date object
+        function greet(){
+            return "welcome";
+        }
+        console.log(typeof greet);  //function
+        console.log(typeof person);  //object
+        console.log(typeof numbers);  //object
+        console.log(typeof today);   //object
+        
+
+        
+        
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+C:\Users\dishi\OneDrive\Desktop\c#\ProductDemo\ProductDemo\bin\Debug\net10.0\ProductDemo.exe
+C:\Users\dishi\OneDrive\Desktop\c#\ProductDemo\ProductDemo\bin\Debug\net10.0\ProductDemo.deps.json
+C:\Users\dishi\OneDrive\Desktop\c#\ProductDemo\ProductDemo\bin\Debug\net10.0\ProductDemo.runtimeconfig.json
+C:\Users\dishi\OneDrive\Desktop\c#\ProductDemo\ProductDemo\bin\Debug\net10.0\ProductDemo.dll
+C:\Users\dishi\OneDrive\Desktop\c#\ProductDemo\ProductDemo\bin\Debug\net10.0\ProductDemo.pdb
+C:\Users\dishi\OneDrive\Desktop\c#\ProductDemo\ProductDemo\obj\Debug\net10.0\ProductDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dishi\OneDrive\Desktop\c#\ProductDemo\ProductDemo\obj\Debug\net10.0\ProductDemo.AssemblyInfoInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\ProductDemo\ProductDemo\obj\Debug\net10.0\ProductDemo.AssemblyInfo.cs
+C:\Users\dishi\OneDrive\Desktop\c#\ProductDemo\ProductDemo\obj\Debug\net10.0\ProductDemo.csproj.CoreCompileInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\ProductDemo\ProductDemo\obj\Debug\net10.0\ProductDemo.dll
+C:\Users\dishi\OneDrive\Desktop\c#\ProductDemo\ProductDemo\obj\Debug\net10.0\refint\ProductDemo.dll
+C:\Users\dishi\OneDrive\Desktop\c#\ProductDemo\ProductDemo\obj\Debug\net10.0\ProductDemo.pdb
+C:\Users\dishi\OneDrive\Desktop\c#\ProductDemo\ProductDemo\obj\Debug\net10.0\ProductDemo.genruntimeconfig.cache
+C:\Users\dishi\OneDrive\Desktop\c#\ProductDemo\ProductDemo\obj\Debug\net10.0\ref\ProductDemo.dll
