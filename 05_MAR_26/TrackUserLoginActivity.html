@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>User Login Activity Tracker</title>
+</head>
+
+<body>
+
+<h2>User Login</h2>
+
+<input id="username" placeholder="Enter Username">
+<button onclick="login()">Login</button>
+
+<p id="output"></p>
+
+<script>
+
+function login(){
+
+const user = document.getElementById("username").value;
+
+const logData = {
+level: "INFO",
+message: "User Login Attempt",
+username: user,
+time: new Date().toLocaleString()
+};
+
+// Log display on page
+document.getElementById("output").innerHTML =
+"Log Sent: " + logData.level +
+" | " + logData.message +
+" | Username: " + logData.username +
+" | Time: " + logData.time;
+
+// Console log (simulate server log)
+console.log(logData);
+
+}
+
+</script>
+
+</body>
+</html>
