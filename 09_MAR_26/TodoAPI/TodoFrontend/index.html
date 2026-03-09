@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Todo Manager</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Todo Manager</h1>
+
+<div class="input-section">
+<input id="taskInput" placeholder="Enter task">
+<select id="priorityInput">
+<option value="Low">Low</option>
+<option value="Medium">Medium</option>
+<option value="High">High</option>
+</select>
+<button onclick="addTask()">Add Task</button>
+</div>
+
+<div class="controls">
+<input id="searchBox" placeholder="Search task..." onkeyup="searchTask()">
+
+<button onclick="loadTasks()">All</button>
+<button onclick="filterTasks(false)">Active</button>
+<button onclick="filterTasks(true)">Completed</button>
+
+<button onclick="toggleDark()">Dark Mode</button>
+</div>
+
+<ul id="taskList"></ul>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
